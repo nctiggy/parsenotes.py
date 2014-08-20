@@ -5,12 +5,12 @@ import webbrowser
 import urllib
 import re
  
-maildrop = 'nctiggy.wm3dg@sync.omnigroup.com'
+maildrop = ''
 arrNotes = []
 arrTasks = []
 arrMeetings = []
 actual_tasks = []
-emailUser = 'nctiggy@gmail.com'
+emailUser = ''
 emailPassword = ''
  
 def emailTask(subject):
